@@ -28,14 +28,14 @@ header {
     position: absolute;
     top: 0;
     left: 0;
-    background: url(././images/star.png) top left repeat;
+    background: url(././star.png) top left repeat;
     width: 100%;
     height: 100%;
     content: "";
 }
 
 .lace {
-     background-image:url(././images/lace.png);
+     background-image:url(././lace.png);
  }
  
  
