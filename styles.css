@@ -54,7 +54,7 @@ blockquote {
      padding-bottom: 20px;
      z-index: 2;
      position: absolute;
-     margin-left: 568px;
+     margin-left: 515px;
      margin-top: 118px;
      overflow: scroll;
      overflow-x: hidden;
@@ -358,7 +358,7 @@ blockquote {
      top: 50%;
      left: 50%;
      margin-top: -250px;
-     margin-left: -365px;
+     margin-left: -418px;
      z-index: 1!important;
      overflow: hidden;
      box-shadow: -5px 5px rgba(0,0,0,0.05);
@@ -456,7 +456,7 @@ blockquote {
      top: 50%;
      left: 50%;
      margin-top: -250px;
-     margin-left: 35px;
+     margin-left: -18px;
      z-index: 99999999999999999999999;
    -webkit-animation: fadeEffect 1s;
    animation: fadeEffect 1s;
@@ -517,7 +517,7 @@ blockquote {
  }
  
  .lowbar {
-     width: 400px; height: 30px; position: absolute; margin: 130px 251px; z-index: 999;
+     width: 400px; height: 30px; position: absolute; margin: 130px 198px; z-index: 999;
  }
  
  .bar-nav {
